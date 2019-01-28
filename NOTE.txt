@@ -1,0 +1,5 @@
+https://www.sqlite.org/howtocompile.html
+
+clang-cl shell.c sqlite3.c -Fesqlite3.exe
+
+cl shell.c sqlite3.c -Fesqlite3.exe
